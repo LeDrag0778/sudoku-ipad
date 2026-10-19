@@ -1,0 +1,1 @@
+{"name":"Sudoku Offline","short_name":"Sudoku","lang":"de","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f6f7fb","theme_color":"#f6f7fb","icons":[{"src":"icon.png","sizes":"192x192 512x512","type":"image/png","purpose":"any maskable"}]}
